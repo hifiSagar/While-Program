@@ -7,7 +7,7 @@ void main(){
 int i=0;
 while (i<10)
 {
-printf("hello_sagar\n");
+printf("Hi_Maga\n");
 i++;
 }
 
